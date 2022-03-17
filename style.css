@@ -1,21 +1,26 @@
+/*class for the brand color*/
 .greentext {
     color: rgb(19, 122, 19);
     font-weight: 600;
 }
 
+/*span ID for the title*/
 #title {
     font-size: 1.8em;
-    margin-bottom: 20%;
+    margin-bottom: 20%; /*potrei usare mb-N di bootstrap*/
 }
 
+/*autoresizef for avatars*/
 .resized {
     width: 100%;
 }
 
+/*color for role*/
 .profession {
     color: gray;
 }
 
+/*styles for role description*/
 .resume {
     color: black;
     font-size: 0.7em;
