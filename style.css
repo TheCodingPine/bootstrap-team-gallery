@@ -1,0 +1,23 @@
+.greentext {
+    color: rgb(19, 122, 19);
+    font-weight: 600;
+}
+
+#title {
+    font-size: 1.8em;
+    margin-bottom: 20%;
+}
+
+.resized {
+    width: 100%;
+}
+
+.profession {
+    color: gray;
+}
+
+.resume {
+    color: black;
+    font-size: 0.7em;
+    font-weight: 500;
+}
